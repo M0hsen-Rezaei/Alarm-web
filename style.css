@@ -47,6 +47,7 @@ select{
     font-size: 18px;
     display: flex;
     justify-content: space-between;
+    background: #fff;
 }
 .btn-alarm{
     background-color: rgb(62, 62, 238);
